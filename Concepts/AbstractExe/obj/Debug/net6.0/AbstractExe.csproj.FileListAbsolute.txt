@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Concepts\AbstractExe\obj\Debug\net6.0\AbstractExe.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Concepts\AbstractExe\obj\Debug\net6.0\AbstractExe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Concepts\AbstractExe\obj\Debug\net6.0\AbstractExe.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Concepts\AbstractExe\obj\Debug\net6.0\AbstractExe.AssemblyInfo.cs
+C:\Users\user\source\repos\Concepts\AbstractExe\obj\Debug\net6.0\AbstractExe.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Concepts\AbstractExe\bin\Debug\net6.0\AbstractExe.exe
+C:\Users\user\source\repos\Concepts\AbstractExe\bin\Debug\net6.0\AbstractExe.deps.json
+C:\Users\user\source\repos\Concepts\AbstractExe\bin\Debug\net6.0\AbstractExe.runtimeconfig.json
+C:\Users\user\source\repos\Concepts\AbstractExe\bin\Debug\net6.0\AbstractExe.dll
+C:\Users\user\source\repos\Concepts\AbstractExe\bin\Debug\net6.0\AbstractExe.pdb
+C:\Users\user\source\repos\Concepts\AbstractExe\obj\Debug\net6.0\AbstractExe.dll
+C:\Users\user\source\repos\Concepts\AbstractExe\obj\Debug\net6.0\refint\AbstractExe.dll
+C:\Users\user\source\repos\Concepts\AbstractExe\obj\Debug\net6.0\AbstractExe.pdb
+C:\Users\user\source\repos\Concepts\AbstractExe\obj\Debug\net6.0\AbstractExe.genruntimeconfig.cache
+C:\Users\user\source\repos\Concepts\AbstractExe\obj\Debug\net6.0\ref\AbstractExe.dll
